@@ -1,7 +1,7 @@
 {
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "violet",
     "header": {
         "title": "Víctor Recio",
         "tagline": "DEV & SEO",
