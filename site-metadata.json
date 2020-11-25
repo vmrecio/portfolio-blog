@@ -6,7 +6,7 @@
         "title": "Víctor Recio",
         "tagline": "DEV & SEO",
         "profile_img": "images/foto.png",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
