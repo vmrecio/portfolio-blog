@@ -15,7 +15,7 @@ sections:
       No sabía como etiquetarme profesionalmente... *¿SEO? ¿Desarrollador?
       ¿Consultor?* Creo que lo que más me define es "**enamorado de las
       tecnologías web**" y a partir de ahí estaré encantado de acompañarte en tu
-      proyecto online, sea cual sea.
+      proyecto online, **sea cual sea**.
     actions:
       - label: ¿Hablamos?
         url: /contact
