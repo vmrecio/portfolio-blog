@@ -1,7 +1,7 @@
 ---
 title: No os perdáis el ClickSEO 2020
 subtitle: ''
-date: '2020-11-14'
+date: '2020-11-13'
 excerpt: ' El SEOonTheBeach es un evento que se celebra todos los años en la Manga del Mar Menor y concentra en un ambiente de playa distendido a los mayores profesionales del sector.'
 canonical_url: ''
 template: post
