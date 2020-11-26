@@ -1,8 +1,8 @@
 ---
 title: Sobre mí
 subtitle: >-
-  Llevo más de media vida trabajando en el mundo online y sigo aprendiendo cada
-  día
+  Llevo más de media vida trabajando en el mundo online, pensando que había
+  encontrado mi verdadera pasión hasta que 
 img_path: images/about.jpg
 template: page
 ---
