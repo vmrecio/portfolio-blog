@@ -1,7 +1,7 @@
 ---
 title: Ganador del premio al mejor SEO del SEOonTheBeach
 subtitle: ''
-date: '2020-11-26'
+date: '2020-11-01'
 excerpt: >-
   Los días 24, 25 y 26 de Noviembre los he pasado inmerso en el WhatTheHack 2º
   Hackaton de Vodafone España.
