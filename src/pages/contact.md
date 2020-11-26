@@ -23,7 +23,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - Error on the site
+          - Colaboración en un proyecto
           - Sponsorship
           - Other
       - input_type: textarea
