@@ -5,7 +5,7 @@ date: '2020-11-13'
 excerpt: ' El SEOonTheBeach es un evento que se celebra todos los años en la Manga del Mar Menor y concentra en un ambiente de playa distendido a los mayores profesionales del sector.'
 canonical_url: ''
 template: post
-thumb_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
+thumb_img_path: images/EnmcDCDW4Akd3eF.jpeg
 content_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
 ---
 
