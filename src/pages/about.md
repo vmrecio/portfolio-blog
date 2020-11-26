@@ -11,7 +11,7 @@ template: page
 
 He trabajado tanto como desarrollador full-stack como seo en proyectos para pequeñas y grandes empresas, he tenido mi propia agencia de desarrollo, pasé 6 años de mi vida como seo-técnico en una de las páginas con más tráfico de España (as.com) y actualmente estoy embarcado en la aventura de la transformación digital de una multinacional Telco (Vodafone).
 
->Espero que todo el mundo pueda volverse rico y famoso y tener todo lo que hayan soñado, para que puedan ver que esa no es la respuesta. <cite>Jim Carrey</cite>
+>El éxito no es la victoria, sino todo lo que has peleado por ganar. <cite>Jim Carrey</cite>
 
 Además soy [profe de varios másters](https://kschool.com/profesor/victor-recio/) y ponente en [algunos eventos SEO](https://clickeo.pro/clickseo-2020/).
 
