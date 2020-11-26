@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: This is a short page about me and my work.
+subtitle: 'Llevo más de media vida trabajando en '
 img_path: images/about.jpg
 template: page
 ---
