@@ -1,5 +1,5 @@
 ---
-title: Participo en el II Hackaton de Vodafone España
+title: Ganador del
 subtitle: ''
 date: '2020-11-26'
 excerpt: >-
