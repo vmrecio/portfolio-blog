@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Pasa a conocerme
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Bienvenido a mi primer site con Jekyll, aquí puedes conocer un poco más
+      sobre mí. ¡Gracias por tu tiempo!
   - section_id: about
     type: section_content
     title: Sobre mí
