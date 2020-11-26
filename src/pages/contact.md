@@ -23,7 +23,7 @@ sections:
         label: Asunto
         default_value: Elige uno
         options:
-          - Quiero que coleboremos en un proyecto
+          - Quiero que colaboremos en un proyecto
           - Tengo alguna duda que quizás puedas resolverme
           - Me gustaría charlar contigo
       - input_type: textarea
