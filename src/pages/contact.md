@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Quiero que coleboremos en un proyecto
-          - 'Quiero '
+          - Tengo alguna duda que quizás puedas resolverme
           - Other
       - input_type: textarea
         name: message
