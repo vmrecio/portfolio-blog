@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: subject
         label: Asunto
-        default_value: Please select
+        default_value: Elige uno
         options:
           - Quiero que coleboremos en un proyecto
           - Tengo alguna duda que quizás puedas resolverme
