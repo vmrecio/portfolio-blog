@@ -35,6 +35,6 @@ sections:
         label: >-
           Entiendo que este formulario enviará mi información personal de cara a
           ser contactado
-    submit_label: Send Message
+    submit_label: Enviar Mensaje
 template: advanced
 ---
