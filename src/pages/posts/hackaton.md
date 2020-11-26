@@ -1,6 +1,6 @@
 ---
 title: Participo en el II Hackaton de Vodafone España
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2020-11-26'
 excerpt: >-
   Los días 24, 25 y 26 de Noviembre los he pasado inmerso en el WhatTheHack 2º
