@@ -1,5 +1,5 @@
 ---
-title: Ganador del premio al mejor SEO del SEOonTheBeach
+title: 'Los días '
 subtitle: ''
 date: '2019-06-14'
 excerpt: ' El SEOonTheBeach es un evento que se celebra todos los años en la Manga del Mar Menor y concentra en un ambiente de playa distendido a los mayores profesionales del sector.'
