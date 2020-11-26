@@ -11,10 +11,6 @@ thumb_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
 content_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
 ---
 
-Los días 24, 25 y 26 de Noviembre los he pasado inmerso en el WhatTheHack 2º Hackaton de Vodafone España.
+El SEOonTheBeach es un evento que se celebra todos los años en la Manga del Mar Menor y concentra en un ambiente de playa distendido a los mayores profesionales del sector.
 
-Aunque todos hubieramos preferido un evento físico, compartiendo pizzas del mismo cartón, Red Bulls de la misma lata y todas aquellas cosas que ahora parecen tan lejanas... Sinceramente el evento en streaming ha sido genial.
-
-He conocido unos compañeros increíbles, súper profesionales y hemos desarrollado un proyecto que podría ayudar a gestionar las reclamaciones de la compañía de una manera ágil para mejorar la satisfacción del cliente.
-
-Mañana sabremos qué tal lo hemos hecho respecto al resto de equipos, pero ya sólo la experiencia de participar ha sido un auténtico premio
+Este año tuve el grandísimo honor de quedar en primera posición en el test de conocimientos que se hizo durante el evento. ¡Conquistando el trofeo a mejor SEO del año!
