@@ -25,7 +25,7 @@ sections:
     title: Últimos Posts del Blog
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Ver el Blog
         url: blog/index.html
         style: button
 template: advanced
