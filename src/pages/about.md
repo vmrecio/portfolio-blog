@@ -2,7 +2,7 @@
 title: Sobre mí
 subtitle: >-
   Llevo más de media vida trabajando en el mundo online, pensando que había
-  encontrado mi verdadera pasión hasta que 
+  encontrado mi verdadera pasión hasta que llegaron mis hijos
 img_path: images/about.jpg
 template: page
 ---
