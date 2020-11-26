@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Quiero que coleboremos en un proyecto
-          - Sponsorship
+          - 'Quiero '
           - Other
       - input_type: textarea
         name: message
