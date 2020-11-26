@@ -7,7 +7,7 @@ excerpt: >-
   Hackaton de Vodafone España.
 canonical_url: ''
 template: post
-thumb_img_path: images/Captura de pantalla 2020-11-26 a las 17.24.34.png
+thumb_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
 content_img_path: images/Captura de pantalla 2020-11-26 a las 17.24.34.png
 ---
 
