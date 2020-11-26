@@ -25,7 +25,7 @@ sections:
         options:
           - Quiero que coleboremos en un proyecto
           - Tengo alguna duda que quizás puedas resolverme
-          - Other
+          - Me gustaría charlar contigo
       - input_type: textarea
         name: message
         label: Mensaje
