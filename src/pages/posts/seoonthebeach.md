@@ -1,5 +1,5 @@
 ---
-title: Ganador del
+title: 'Ganador del '
 subtitle: ''
 date: '2020-11-26'
 excerpt: >-
