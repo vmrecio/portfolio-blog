@@ -3,7 +3,7 @@ title: Sobre mí
 subtitle: >-
   Llevo más de media vida trabajando en el mundo online, pensando que había
   encontrado mi verdadera pasión hasta que llegaron mis hijos
-img_path: images/about.jpg
+img_path: images/Captura de pantalla 2020-11-26 a las 22.23.13.png
 template: page
 ---
 
