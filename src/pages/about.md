@@ -7,12 +7,14 @@ img_path: images/Captura de pantalla 2020-11-26 a las 22.23.13.png
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+¡Hola! Mi nombre es **Víctor Recio** y llevo en este mundillo del desarrollo web desde aproximadamente el año 2000.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+He trabajado tanto como desarrollador full-stack como seo en proyectos para pequeñas y grandes empresas, he tenido mi propia agencia de desarrollo, pasé 6 años de mi vida como seo-técnico en una de las páginas con más tráfico de España (as.com) y actualmente estoy embarcado en la aventura de la transformación digital de una multinacional Telco (Vodafone).
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>Espero que todo el mundo pueda volverse rico y famoso y tener todo lo que hayan soñado, para que puedan ver que esa no es la respuesta. <cite>Jim Carrey</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Además soy [profe de varios másters](https://kschool.com/profesor/victor-recio/) y ponente en [algunos eventos SEO](https://clickeo.pro/clickseo-2020/).
+
+Padre muy orgulloso de 2 pequeños y vigente campeón del premio a mejor SEO del SEOonTheBeach (mientras la pandemia no permita que alguien me lo arrebate)
 
 *¡Gracias por leerme!*
