@@ -8,7 +8,7 @@ excerpt: >-
 canonical_url: ''
 template: post
 thumb_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
-content_img_path: images/Captura de pantalla 2020-11-26 a las 17.24.34.png
+content_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
 ---
 
 Los días 24, 25 y 26 de Noviembre los he pasado inmerso en el WhatTheHack 2º Hackaton de Vodafone España.
