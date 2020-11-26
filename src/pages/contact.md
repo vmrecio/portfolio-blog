@@ -33,8 +33,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario enviará mi información personal de cara a
+          ser contactado
     submit_label: Send Message
 template: advanced
 ---
