@@ -1,5 +1,5 @@
 ---
-title: Ganador del SEOonTheBeach
+title: Ganador del premio al mejor SEO del SEOonTheBeach
 subtitle: ''
 date: '2020-11-26'
 excerpt: >-
