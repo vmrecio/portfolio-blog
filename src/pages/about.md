@@ -7,7 +7,7 @@ img_path: images/Captura de pantalla 2020-11-26 a las 22.23.13.png
 template: page
 ---
 
-¡Hola! Mi nombre es **Víctor Recio** y llevo en este mundillo del desarrollo web desde aproximadamente el año 2000.
+¡Hola! Mi nombre es **Víctor Recio** y llevo en esto del desarrollo web desde aproximadamente el año 2000.
 
 He trabajado tanto como desarrollador full-stack como seo en proyectos para pequeñas y grandes empresas, he tenido mi propia agencia de desarrollo, pasé 6 años de mi vida como seo-técnico en una de las páginas con más tráfico de España (as.com) y actualmente estoy embarcado en la aventura de la transformación digital de una multinacional Telco (Vodafone).
 
