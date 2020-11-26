@@ -23,7 +23,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - Colaboración en un proyecto
+          - 'Quiero que coleboremos en '
           - Sponsorship
           - Other
       - input_type: textarea
