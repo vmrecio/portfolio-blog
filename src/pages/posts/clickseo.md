@@ -6,7 +6,7 @@ excerpt: Este año asistiré como ponente al ClickSEO los días 7 y 8 de diciemb
 canonical_url: ''
 template: post
 thumb_img_path: images/EnmcDCDW4Akd3eF.jpeg
-content_img_path: images/Captura de pantalla 2020-11-26 a las 23.58.12.png
+content_img_path: images/EnmcDCDW4Akd3eF.jpeg
 ---
 
 Este año asistiré como ponente al ClickSEO los días 7 y 8 de diciembre.
