@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: 'Llevo más de media vida trabajando en '
+subtitle: Llevo más de media vida trabajando en el mundo
 img_path: images/about.jpg
 template: page
 ---
